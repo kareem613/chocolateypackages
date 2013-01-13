@@ -3,13 +3,12 @@
   <metadata>
     <id>kareemsultan.developer.toolkit.dotnet</id>
     <title>Kareem Sultan's Developer Toolkit</title>
-    <version>1.0</version>
+    <version>1.1</version>
     <authors>Kareem Sultan</authors>
     <owners>Kareem Sultan</owners>
     <summary>Kareem Sultan's set of developer tools.</summary>
-    <description>This package includes many of the tools I use for my daily .NET development. || cinst kareemsultan.developer.toolkit will install everything. ||
-| Install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
-    <projectUrl>https://github.com/kareemsultan/chocolateypackages</projectUrl>
+    <description>Inspired by Fervent Coder (http://geekswithblogs.net/robz), this package includes many of the tools I use for my daily .NET development.</description>
+    <projectUrl>https://github.com/kareem613/chocolateypackages</projectUrl>
     <tags>kareemsultan developer tools toolkit chocolatey .net</tags>
     <dependencies>
       <dependency id='NugetPackageExplorer' />

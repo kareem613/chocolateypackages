@@ -1,7 +1,7 @@
 chocolateypackages
 ==================
 
-This repo includes chocolatey packages for my development environment. It's a quick way to get all my favourite tools installed quickly. 
+This repo includes chocolatey packages for my development environment. Inspired by Fervent Coder (http://geekswithblogs.net/robz), it's a quick way to get all my favourite tools installed quickly. 
 It's broken up into three packages. 
 
 kareemsultan.developer.toolkit
