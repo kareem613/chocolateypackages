@@ -1,0 +1,1 @@
+Write-ChocolateySuccess "Successfully installed package."

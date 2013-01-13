@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>kareemsultan.developer.toolkit.dotnet</id>
+    <title>Kareem Sultan's Developer Toolkit</title>
+    <version>1.0</version>
+    <authors>Kareem Sultan</authors>
+    <owners>Kareem Sultan</owners>
+    <summary>Kareem Sultan's set of developer tools.</summary>
+    <description>This package includes many of the tools I use for my daily .NET development. || cinst kareemsultan.developer.toolkit will install everything. ||
+| Install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
+    <projectUrl>https://github.com/kareemsultan/chocolateypackages</projectUrl>
+    <tags>kareemsultan developer tools toolkit chocolatey .net</tags>
+    <dependencies>
+      <dependency id='NugetPackageExplorer' />
+      <dependency id='logparser.lizardgui' />
+      <dependency id='linqpad4' />
+	</dependencies>
+  </metadata>
+</package>

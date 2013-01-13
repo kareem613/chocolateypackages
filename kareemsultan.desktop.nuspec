@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>kareemsultan.desktop</id>
+    <title>Kareem Sultan's Desktop</title>
+    <version>1.0</version>
+    <authors>Kareem Sultan</authors>
+    <owners>Kareem Sultan</owners>
+    <summary>Kareem Sultan's preferred set of apps.</summary>
+    <description>This package includes many of the apps I use every day. || cinst kareemsultan.developer.toolkit will install everything. ||
+| Install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
+    <projectUrl>https://github.com/kareemsultan/chocolateypackages</projectUrl>
+    <tags>kareemsultan developer tools toolkit chocolatey .net</tags>
+    <dependencies>
+      <dependency id='digsby' />
+      <dependency id='Slickrun' />
+      <dependency id='lastpass' />
+      <dependency id='paint.net' />
+      <dependency id='skype' />
+	  <dependency id='dropbox' />
+	  <dependency id='VirtualCloneDrive' />
+	  <dependency id='evernote' />
+	  <dependency id='SkyDrive' />
+	  <dependency id='picasa' />
+	  <dependency id='imgburn' />
+	</dependencies>
+  </metadata>
+</package>
