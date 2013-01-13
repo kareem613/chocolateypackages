@@ -23,7 +23,6 @@
 	  <dependency id='putty' />
 	  <dependency id='unlocker' />
 	  <dependency id='diffmerge' />
-	  <dependency id='windbg' />
 	  <dependency id='papercut' />
     </dependencies>
   </metadata>
