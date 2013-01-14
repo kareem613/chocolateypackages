@@ -6,10 +6,10 @@
     <version>1.2</version>
     <authors>Kareem Sultan</authors>
     <owners>Kareem Sultan</owners>
-    <summary>Kareem Sultan's set of developer tools.</summary>
+    <summary>A set of development tools for .NET developers.</summary>
     <description>Inspired by Fervent Coder (http://geekswithblogs.net/robz), this package includes many of the tools I use for my daily .NET development.</description>
     <projectUrl>http://maybe5.com/chocolatey-dev-system-packages</projectUrl>
-    <tags>kareemsultan developer tools toolkit chocolatey .net</tags>
+    <tags>developer tools toolkit .net</tags>
     <dependencies>
       <dependency id='NugetPackageExplorer' />
       <dependency id='logparser.lizardgui' />
