@@ -1,0 +1,2 @@
+wolfpack: http://wolfpack.codeplex.com/
+pal: http://pal.codeplex.com/
