@@ -3,7 +3,7 @@
   <metadata>
     <id>kareemsultan.desktop</id>
     <title>Kareem Sultan's Desktop</title>
-    <version>1.4</version>
+    <version>1.5</version>
     <authors>Kareem Sultan</authors>
     <owners>Kareem Sultan</owners>
     <summary>My preferred set of apps for my development machines.</summary>
@@ -16,7 +16,6 @@
       <dependency id='lastpass' />
       <dependency id='paint.net' />
       <dependency id='skype' />
-	  <dependency id='dropbox' />
 	  <dependency id='VirtualCloneDrive' />
 	  <dependency id='evernote' />
 	  <dependency id='picasa' />
