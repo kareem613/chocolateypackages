@@ -11,6 +11,9 @@
     <projectUrl>http://maybe5.com/chocolatey-dev-system-packages/</projectUrl>
     <tags>developer tools toolkit</tags>
     <dependencies>
+    <dependency id='git' />
+    <dependency id='gitextensions' />
+    <dependency id='poshgit' />
       <dependency id='conemu' />
       <dependency id='fiddler' />
       <dependency id='filezilla' />
