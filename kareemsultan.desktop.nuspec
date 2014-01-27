@@ -12,15 +12,11 @@
     <tags>kareemsultan developer tools toolkit chocolatey .net</tags>
     <dependencies>
       <dependency id='digsby' />
-      <dependency id='Slickrun' />
-      <dependency id='lastpass' />
       <dependency id='paint.net' />
       <dependency id='skype' />
 	  <dependency id='VirtualCloneDrive' />
 	  <dependency id='evernote' />
-	  <dependency id='picasa' />
 	  <dependency id='imgburn' />
-	  <dependency id='FoxitReader' />
 	</dependencies>
   </metadata>
 </package>
