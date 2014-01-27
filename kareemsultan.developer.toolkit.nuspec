@@ -3,7 +3,7 @@
   <metadata>
     <id>kareemsultan.developer.toolkit</id>
     <title>Kareem Sultan's Developer Toolkit</title>
-    <version>1.4</version>
+    <version>1.5</version>
     <authors>Kareem Sultan</authors>
     <owners>Kareem Sultan</owners>
     <summary>A set of general development tools.</summary>
@@ -11,19 +11,15 @@
     <projectUrl>http://maybe5.com/chocolatey-dev-system-packages/</projectUrl>
     <tags>developer tools toolkit</tags>
     <dependencies>
-      <dependency id='console2' />
+      <dependency id='conemu' />
       <dependency id='fiddler' />
       <dependency id='filezilla' />
       <dependency id='notepadplusplus' />
       <dependency id='sysinternals' />
-	  <dependency id='githubforwindows' />
-	  <dependency id='GoogleChrome' />
-	  <dependency id='Opera' />
-	  <dependency id='Firefox' />
-	  <dependency id='putty' />
-	  <dependency id='unlocker' />
-	  <dependency id='diffmerge' />
-	  <dependency id='papercut' />
+	<dependency id='putty' />
+	<dependency id='unlocker' />
+	<dependency id='diffmerge' />
+	<dependency id='papercut' />
     </dependencies>
   </metadata>
 </package>
